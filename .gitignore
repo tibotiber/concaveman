@@ -2,6 +2,5 @@ node_modules
 coverage
 .nyc_output
 tmp
-dist
 *.log
 viz/bundle.js
